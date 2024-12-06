@@ -49,8 +49,8 @@ Copy code
 3. If you need further customization, let me know!
 
 ##VIEW (website)
-[WEBVIEW](asset/website.png)
+![WEBVIEW](asset/website.png)
 
 ##(Mobile)
-[MOBVIEW](asset/mobile.png)
+![MOBVIEW](asset/mobile.png)
 
