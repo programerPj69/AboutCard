@@ -48,9 +48,9 @@ Copy code
 2. Add a screenshot of your website in the `assets` folder and replace `path-to-your-screenshot.png` with its relative path.
 3. If you need further customization, let me know!
 
-##VIEW (website)
+## VIEW (website)
 ![WEBVIEW](asset/website.png)
 
-##(Mobile)
+## (Mobile)
 ![MOBVIEW](asset/mobile.png)
 
