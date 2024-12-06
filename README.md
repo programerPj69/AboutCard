@@ -2,6 +2,9 @@
 
 This is a personal portfolio website showcasing details about me, my education, skills, and resume. The website features interactive sections and links to my social media profiles.
 
+### click
+https://programerpj69.github.io/AboutCard/
+
 ## Features
 
 - **Top Image**: Displays a profile or relevant image at the center-top of the page.
